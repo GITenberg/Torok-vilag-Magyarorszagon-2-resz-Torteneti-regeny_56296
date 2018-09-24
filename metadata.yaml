@@ -1,5 +1,8 @@
 _repo: Torok-vilag-Magyarorszagon-2-resz-Torteneti-regeny_56296
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56296-h/images/cover.jpg
 creator:
   author:
     agent_name: Jókai, Mór
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5845
     wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56296#Torok-vilag-Magyarorszagon-2-resz-Torteneti-regeny
 gutenberg_issued: '2018-01-02'
 gutenberg_type: Text
 identifiers:
